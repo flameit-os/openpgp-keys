@@ -8,7 +8,7 @@ Publicly available OpenPGP/GPG keys of FlameIT - Immersion Cooling company emplo
 
 ## OpenPGP / GnuPG
 
-You can read more about OpenPGP / GnuPG here: https://github.com/felixd/gnupg
+You can read more about OpenPGP / GnuPG here: [https://github.com/felixd/gnupg](https://github.com/felixd/gnupg)
 
 ## Author
 
