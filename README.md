@@ -1,6 +1,6 @@
 # [FlameIT - Immersion Cooling](https://flameit.io) OpenPGP/GPG public keys
 
-Publicly available OpenPGP/GPG keys of FlameIT - Immersion Cooling company employees.
+FlameIT - Immersion Cooling company OpenPGP/GPG public keys.
 
 ## Keys
 
