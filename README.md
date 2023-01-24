@@ -8,7 +8,7 @@
 
 ## OpenPGP / GnuPG
 
-You can read more about OpenPGP / GnuPG here: [https://github.com/felixd/gnupg](https://github.com/felixd/gnupg)
+You can read more about OpenPGP / GnuPG here: [https://gnupg.kb.flameit.io/](https://gnupg.kb.flameit.io/)
 
 ## Author
 
