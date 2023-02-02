@@ -1,6 +1,6 @@
 # [FlameIT - Immersion Cooling](https://flameit.io) OpenPGP/GPG public keys
 
-![FlameIT - Immersion Cooling](https://statics.flameit.io/img/flameit-www-banner-960x200.png "FlameIT - Immersion Cooling")
+[![FlameIT - Immersion Cooling](https://statics.flameit.io/img/flameit-www-banner-960x200.png "FlameIT - Immersion Cooling")](https://flameit.io)
 
 ## OpenPGP/GPG public keys
 
